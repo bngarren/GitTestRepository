@@ -9,7 +9,7 @@ public class User {
 	}
 
 	public void display(){
-		System.out.println("User name: " + this.name);
+		System.out.println("User name is: " + this.name);
 	}
 
 }
